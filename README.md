@@ -1,1 +1,1 @@
-# xgboost-cat-benchmarking
+# Xgboost Categorical Benchmarking
